@@ -1,0 +1,24 @@
+# VCF Items
+
+SOURCES += $${PWD}/VcfGlyph.cpp
+SOURCES += $${PWD}/VcfScreenSize.cpp
+SOURCES += $${PWD}/VcfPicture.cpp
+SOURCES += $${PWD}/VcfColorSelector.cpp
+SOURCES += $${PWD}/VcfColorPicker.cpp
+SOURCES += $${PWD}/VcfTimeBar.cpp
+SOURCES += $${PWD}/VcfGantt.cpp
+SOURCES += $${PWD}/VcfTimeSection.cpp
+SOURCES += $${PWD}/VcfPanel.cpp
+SOURCES += $${PWD}/VcfFlags.cpp
+SOURCES += $${PWD}/VcfWave.cpp
+SOURCES += $${PWD}/VcfCells.cpp
+SOURCES += $${PWD}/VcfMind.cpp
+SOURCES += $${PWD}/VcfBlocks.cpp
+SOURCES += $${PWD}/VcfDocument.cpp
+SOURCES += $${PWD}/VcfUi.cpp
+SOURCES += $${PWD}/VcfParagraph.cpp
+SOURCES += $${PWD}/VcfTask.cpp
+SOURCES += $${PWD}/VcfTasks.cpp
+SOURCES += $${PWD}/VcfDecision.cpp
+SOURCES += $${PWD}/VcfAction.cpp
+SOURCES += $${PWD}/VcfBranch.cpp
